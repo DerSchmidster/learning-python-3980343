@@ -6,7 +6,7 @@
 
 
 # to access a member of a sequence type, use []
-
+myList = [apples, 1, "string"]
 
 # add a list to another list
 
